@@ -1,6 +1,8 @@
 # Thinkorswim-ubuntu-linux
 Thinkorswim in WINE in ubuntu linux
 
+Download 63bit thinkorswimsetup file
+
 1.) install wine
 
 ```
@@ -21,7 +23,7 @@ sudo apt install --install-recommends winehq-stable wine64 winetricks
 
 4.) this will take a few steps of clicking through installers
 
-5.) then exit winetricks. open terminal and cd to directory of setup file. type `wine setup.exe`and hit enter.
+5.) then exit winetricks. open terminal and cd to directory of setup file. type `wine thinkorswimsetup.exe`and hit enter.
 
 6.) installation took about 15min and then after it shows installed, I had to press ctrl+c to end the terminal output.
 
