@@ -27,7 +27,7 @@ sudo apt install --install-recommends winehq-stable wine64 winetricks
 
 6.) installation took about 15min and then after it shows installed, I had to press ctrl+c to end the terminal output.
 
-7.) there will be no shortcut however, go to the location of the installation of TOS in wine -> /home/sam/.wine/drive_c/Program Files/thinkorswim/thinkorswim.exe
+7.) there will be no shortcut however, go to the location of the installation of TOS in wine -> /home/USERNAME/.wine/drive_c/Program Files/thinkorswim/thinkorswim.exe
 
 8.) double click to launch it and test if it works. then close it
 
