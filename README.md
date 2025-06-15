@@ -1,9 +1,9 @@
 # Thinkorswim-ubuntu-linux
 Thinkorswim in WINE in ubuntu linux
 
-Download 63bit thinkorswimsetup file
+0.) Download 64bit thinkorswimsetup file
 
-1.) install wine
+1.) install wine per wiki instructions
 
 ```
 sudo dpkg --add-architecture i386sudo dpkg --add-architecture i386
